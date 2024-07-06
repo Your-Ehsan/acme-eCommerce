@@ -6,7 +6,7 @@ import NavDropMenu from "../components/navBar/NavDropMenu";
 import CountryList from "../components/options/CountryList";
 import CurrencyList from "../components/options/CurrencyList";
 import CartModal from "../components/cart/CartModal";
-import WishListModal from "../components/cart/wishListModal";
+import WishListModal from "../components/cart/WishListModal";
 import { useSelector } from "react-redux";
 
 const RootLayout = () => {
