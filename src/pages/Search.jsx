@@ -1,5 +1,4 @@
 import React, { Suspense } from "react";
-
 import { useLoaderData, defer, Await } from "react-router-dom";
 import Loading from "../components/Ui/Loading";
 import ProductsList from "../components/products/ProductsList";
